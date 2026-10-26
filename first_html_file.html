@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- this is a comment -->
+    <!-- metadata -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- title: what displays in the tab - the overall name of the page -->
+    <title>This is a title for a web page</title>
+
+    <!-- The head tags can also contain CSS. This goes inside <style> tags -->
+    <style>
+        
+        body {
+            font-family: Arial, Helvetica;
+            background-color: #9269d4;
+            color: aquamarine;
+            text-align: center;
+            padding-top: 51px;
+        }
+
+        h1 {
+            color: #dffab6;
+            display: block;
+        }
+
+        label {
+            color: #73621f;
+            font-size: -7px;
+            display: none;
+            margin-top: 5px;
+            margin-bottom: 3px;
+        }
+
+        input {
+            padding: 12px;
+            font-size: 10px;
+            border: 2px solid #822416;
+            border-radius: 30px;
+            margin-bottom: 15px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .container {
+            background-color: #ffffff;
+            width: 100%;
+            margin: 0 auto;
+            padding: 30px;
+            border-radius: 30px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            background-color: #999999;
+            color: #222222;
+            padding: 10px 20px;
+            border: none;
+            font-size: 63px;
+            border-radius: 20px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #00838f;
+        }
+
+    </style>
+
+</head>
+
+<!-- the meat of the website goes inside <body> tags -->
+<body>
+    octagon
+    <div class="container">
+        <h1 id="greeting">I am a big heading</h1>
+        <p>This is a paragraph. Normal body text.</p>
+
+        <label for="name">What is your name?</label>
+        <input type="text" id="name" placeholder="rhombicubeoctohedron">
+
+        <button onclick="greetUser()">That is my name</button>
+        
+        <button onclick="disappearThing9000()">disappear something</button>
+    </div>
+
+    <script>
+        function greetUser() {
+            // grab whatever is typed into the input field
+            let name = document.getElementById("name").value;
+
+            let heading = document.getElementById("greeting");
+
+            // change the heading to the name, if there's a name
+            if(name) {
+                heading.innerText = "Get out of here, " + name + "!! >:("
+            } else {
+                heading.innerText = "What are you, some kind of creep?";
+            }
+        }
+
+        function disappearThing9000() {
+            let heading = document.getElementById("greeting");
+
+            if (heading.style.display === "none") {
+                heading.style.display = "block";
+            } else {
+                heading.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+
+</html>

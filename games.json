@@ -1,0 +1,322 @@
+{
+    "Nintendo Switch": {
+        "games": [
+            {
+                "name": "A Street Cat's Tale",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Animal Crossing: New Horizons",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Apollo Justice: Ace Attorny Trilogy",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Azure Reflections",
+                "physical_copy": false,
+                "rating": null,
+                "completed": true
+            },
+            {
+                "name": "Baba Is You",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Blanc",
+                "physical_copy": false,
+                "rating": null,
+                "completed": true
+            },
+            {
+                "name": "Calico",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Crossy Road Castle",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "DELTARUNE",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Donkey Kong Bananza",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Fortnite",
+                "physical_copy": false,
+                "rating": null,
+                "completed": null
+            },
+            {
+                "name": "Kirby and the Forgotten Land",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Kirby Fighters 2",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Kirby's Dream Buffet",
+                "physical_copy": false,
+                "rating": null,
+                "completed": null
+            },
+            {
+                "name": "Mario Kart Live: Home Circut",
+                "physical_copy": false,
+                "rating": null,
+                "completed": null
+            },
+            {
+                "name": "Mario Kart World",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Mindball Play",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "New Super Mario Bros. U Deluxe",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            }
+        ]
+    },
+    "iQue Player": {
+        "games": [
+            {
+                "name": "Super Mario 64",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Dr. Mario 64",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "The Legend of Zelda: Ocarina of Time",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Wave Race 64",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "one more that i don't renember the name of i will put the actual name here later",
+                "physical_copy": false,
+                "rating": null,
+                "completed": false
+            }
+        ]
+    },
+    "Super Nintendo Entertainment System": {
+        "games":[
+            {
+                "name": "F-Zero",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Indiana Jones' Greatest Adventures",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Madden NFL 97",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Super Mario All-Stars",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Super Star Wars",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Super Star Wars - Return of the Jedi",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Super Star Wars - The Empire Strikes Back",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            }
+        ]
+    },
+    "Super Famicom": {
+        "games": [
+            {
+                "name": "Super Puyo Puyo",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            }
+        ]
+    },
+    "Nintendo 64": {
+        "games": [
+            {
+                "name": "All-Star Baseball 2000",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "All-Star Baseball 2001",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Batman Beyond - Return of the Joker",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Donkey Kong 64",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "GoldenEye 007",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Hey You, Pikachu!",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "The Legend of Zelda, Majora's Mask",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Madden Football 64",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Ms. Pac-Man: Maze Madness",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Nagano Winter Olympics '98",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Namco Museum 64",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "NFL Blitz",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "NFL 99",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Perfect Dark",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Rush 2 - Extreme Racing USA",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Star Wars - Rouge Squadron",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Star Wars Episode 1 - Racer",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Top Gear Overdrive",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            },
+            {
+                "name": "Wave Race 64 - Kawasaki Jet Ski",
+                "physical_copy": true,
+                "rating": null,
+                "completed": false
+            }
+        ]
+    }
+}

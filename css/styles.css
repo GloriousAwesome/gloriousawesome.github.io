@@ -1,0 +1,36 @@
+body {
+    background-color: purple;
+    color: aquamarine;
+    text-align: center;
+    padding-top: 45px;
+}
+
+/* Navigation */
+header {
+    background-color: yellowgreen;
+    padding: 20px;
+}
+
+nav a {
+    color: olivedrab;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: orchid;
+}
+
+.fafo {
+    background-color: azure;
+    color: darkolivegreen;
+}
+
+.fafo_two {
+    background-color: aqua;
+    color:darkred;
+    text-align: center;
+    width: 100%;
+}
