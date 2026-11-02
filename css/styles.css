@@ -1,3 +1,19 @@
+.green-theme {
+    background-color: green;
+    color: greenyellow;
+}
+
+.green-theme .container {
+    background-color: greenyellow;
+    color: green;
+    box-shadow: 0px 5px 10px rgba(48, 212, 174, 0.1);
+}
+
+.green-theme th {
+    background-color: aquamarine;
+    color: seagreen;
+}
+
 body {
     background-color: purple;
     color: aquamarine;
